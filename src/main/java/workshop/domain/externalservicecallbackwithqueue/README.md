@@ -1,0 +1,1 @@
+The code under this package is modified to simulate an external interaction which takes time to execute. The external service takes an instance of Runnable which is used as callback by external service. And in this approach bank account uses a queue to process the callback.

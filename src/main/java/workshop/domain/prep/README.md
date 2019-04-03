@@ -1,0 +1,1 @@
+The code under this package takes traditional route where synchronized keyword is used to maintain sanity of state under multi threaded environment.

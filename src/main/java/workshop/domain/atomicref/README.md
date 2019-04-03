@@ -1,0 +1,1 @@
+The code under this package makes use of Java inbuilt AtomicReference class to achieve thread safety of the bank account state.
